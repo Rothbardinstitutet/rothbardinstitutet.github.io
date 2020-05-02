@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Libertariansk strategi – för en framtid utan stater"
+author: "Benjamin Juhlin"
+tags: [frihet, libertarianism, strategi, Sverige]
+---
+
+Vi som är för ett marknadssamhälle (0% stat och 100% frihet) har framtiden för oss. Den generation av svenska libertarianer som lever nu besitter en unik fördel som ingen tidigare generation haft: vi vet om att hela staten måste väck! Det här ger oss två fördelar.
+
+
+För det första innebär det att vi kan formulera vårt budskap på ett enkelt sätt. Vi behöver inte krångla till det, utan kan kort och gott förklara att människor borde få bestämma över sig själva och att svenskar behöver frihet, inte herrar. Det är när människor får arbeta och handla ostört som välstånd skapas. Ingenting kan förändra det faktum att människor i vårt land borde få vara fria och slippa huka sig under regleringar, skatter och politikernas lagstiftning.
+
+För det andra gör det att vi kan gå bortom det gamla vanliga politiska samtalet. Istället för att likt alla andra politiska tyckare ha åsikter om exakt hur stor staten borde vara eller vad den borde göra är vi libertarianer annorlunda, för vi tycker att staten kan dra något gammalt över sig. Vi vill inte ha en stat alls och på så sätt placerar vi oss före den rådande politiska diskussionen. Den första frågan alla människor borde ställa sig är om de är libertarianer och vill ha ett samhälle utan en stat, och det är enbart om de svarar ja på den frågan som de kan diskutera vidare om huruvida de är moderater, socialdemokrater eller vänsterpartister.
+
+Men även om enkelheten i vårt budskap är vårt bästa vapen har det en brist. Den svenska staten är gigantisk och för att ta kol på monstret behövs mycket tid och energi. Det här är någonting som skrämmer oss. Vi är människor och vi vet att vi en dag kommer att gå köttets väg. Det får oss att stressa, eftersom vi så gärna vill vara med när staten går under. Om den stressen tar sig uttryck i att vi arbetar ännu mer och satsar ännu hårdare är det bra, men den kan också ta sig negativa uttryck. Den skulle kunna vilseleda oss så att vi väljer att kompromissa med vår egen åsikt, i hopp om att det kommer att ge oss mer stöd. En del tror att vi genom att beskriva vår åsikt som mindre rakt på sak än vad den faktiskt är och oss själva som mjukare än vad vi är kan vinna de som redan är ganska nära oss. Verkligheten förhåller sig nog på ett annat sätt. Den mjukare strategin innebär inte bara att vi sviker oss själva, utan också att stödet och intresset för våra idéer sjunker. Folk byter inte ideologi för att ideologin ängsligt anpassats, utan för att de tänkt om och inser att de hade fel förut och att de nu övertygats av argumenten för ideologin de byter till. Det är ingen slump att det är radikaler som styrt världshistorien och inte de som anpassat sig för att blidka andra.
+
+Nu har vi diskuterat farorna tillräckligt, så låt oss nämna en sista fördel. Eftersom vårt budskap är tydligt och enkelt, 0% stat och 100% frihet, är det uppenbart vad vårt slutgiltiga mål är. Däremot kan det krävas lite mer ansträngning för att bestämma vad vårt nästa delmål ska vara. Ett förslag är att vi försöker få så många människor som möjligt att ta ställning till staten. Det viktiga är inte att människor direkt håller med oss, men bara att de någon gång aktivt behövde bestämma sig för om de var för eller emot staten. Den övervägande majoriteten av vår befolkning har aldrig ställt sig själva den frågan, utan bara i tysthet accepterat att det är så och att det är ingenting som man behöver lägga någon tankekraft på. Om vi lyckades väcka den frågeställningen hos fler människor skulle det vara ett stort steg framåt.
+
+Till sist: libertarianismen är den bästa ideologi som finns. Ingen hederlig och förnuftig människa kan nöja sig med något annat än den. Vi behöver inte be om ursäkt för att vi är emot staten, utan tvärtom ska vi vara stolta över att vi insett vad som är sant och rätt.
