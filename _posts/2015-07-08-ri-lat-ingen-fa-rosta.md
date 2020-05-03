@@ -7,6 +7,7 @@ tags: [demokrati, FI, politik]
 
 I sitt [tal](http://www.dn.se/nyheter/sverige/fi-lat-16-aringar-fa-rosta/) under Almedalsveckan, politikernas sommarfestival, sa Gudrun Schyman å Feministiskt Initiativs (FI) vägnar att man borde låta 16-åringar få rösta i valen för att inte exkludera en grupp som kanske inte får rösta förrän de är 20 år gamla. För enligt Schyman finns det forskning som visar att 16-åringar fattar lika bra eller dåliga beslut som 18-åringar. [1]
 
+
 Så enkelt är det dock inte att avgöra vem som bör få rösta. Man ska inte ta valet som något givet. Det finns så mycket mer man bör analysera, som varför och om man bör ha en röstningsprocess överhuvudtaget. Låt oss dock hålla oss på en för ämnet lagom nivå.
 
 Hursomhelst. Gudrun Schyman missar tyvärr några viktiga saker. För vad hon inte verkar skilja på är två typer av beslut: 1) De som bara berör en själv och är frivilliga, och 2) De som berör alla och inte bara en själv och är betvingande. Att rösta faller, liksom alla andra politiska handlingar, i den sistnämnda kategorin.

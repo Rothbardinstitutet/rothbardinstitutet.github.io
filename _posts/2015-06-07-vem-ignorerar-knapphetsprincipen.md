@@ -11,6 +11,7 @@ Alla har vi en teori om hur världen fungerar, om hur orsak och effekt hör ihop
 
 Våra teorier, reglerna och priciperna utifrån vilka vi tolkar omvärlden, hjälper oss att tänka och planera, men de begränsar också till viss grad vårt tänkande och vår planering. Det kan vara en bra sak, så länge som våra teorier överenstämmer med den verkliga världen på ett rimligt sätt.
 
+
 För ekonomer som studerar mänskligt handlande i den verkliga världen så är en av principerna som vi inte kan ignorera att knapphet existerar – för att få mer av en värdefull sak så måste man avstå från en annan värdefull sak. Man skulle faktiskt kunna säga att om någon inte förstår knapphetens natur och signifikans så är det ett kännetecken att denne inte är ekonom, eller åtiminstone en mycket dålig sådan.
 
 I vardagen är det vanligtvis omöjligt att ignorera knapphetens existens. För de allra flesta av oss är det ganska uppenbart att tid och pengar inte är obegränsade, och att om vi vill ha ett större hus så behöver vi troligtvis tjäna med genom att ge upp mer utav vår fritid och arbeta mera. På en fri marknad, en utan godtycklig politisk maktutövande och aggression, är den ekonomiska verkligheten gällande knappheten en ”hård begränsning” som alltid är bra att ha i tankarna när man planerar.
