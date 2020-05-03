@@ -25,4 +25,4 @@ Vad än dessa kändisaktivister säger så har de inte den slutliga lösningen. 
 
 *Editerad den 7 januari 2015 kl 19:15.*
 
-*Rothbard-institutet har tidigare publicerat en kommentar på en översättning av en krönika av George Monbiot som publicerades i ETC.*
+*Rothbard-institutet har tidigare publicerat en kommentar på en översättning av en krönika av George Monbiot som publicerades i ETC. Den hittar du [här](/ar-du-trott-pa-det-falska-pastaendet-att-marknaden-styr-varlden/).*
