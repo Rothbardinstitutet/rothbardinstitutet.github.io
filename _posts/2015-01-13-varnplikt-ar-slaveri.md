@@ -7,6 +7,7 @@ tags: [politik, själväganderätt, Sverige, värnplikt]
 
 Sveriges försvar har under en längre tid kritiserats för att vara underfinansierat och undermåligt. Många har också tappat tron på en icke-fungerande yrkesmilitär. Sedan drygt ett år tillbaka har frågan om att återinföra värnplikten, som med majoritet i Riksdagen avskaffades 2010, blivit allt mer aktuell.
 
+
 Under valet hösten 2014 gick Socialdemokraternas partiledare Stefan Löfven (sedermera statsminister) ut med att [han ville återinföra värnplikten](http://www.expressen.se/nyheter/val2014/lofven-vill-aterinfora-allmanna-varnplikten/) om han skulle vinna valet, som svar på situationen i Stockholms skärgård där man misstänkte att en rysk u-båt hade gjort [intrång på svenskt vatten](http://www.forsvarsmakten.se/en/news/2014/11/confirmed-submarine-in-the-stockholm-archipelago/). Folkpartiets partiledare Jan Björklund var, inte oväntat, positiv till detta. Och de nyliga [terrordåden i Frankrike](http://en.wikipedia.org/wiki/Charlie_Hebdo_shooting) har nog fått fler att oroa sig över sin säkerhet.
 
 Enligt en [undersökning gjord av Aftonbladet](http://www.aftonbladet.se/nyheter/article20145965.ab) sägs nu drygt 6 av 10 tillfrågade vara positiva till att återinföra värnplikten.

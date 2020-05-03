@@ -9,6 +9,7 @@ tags: [Bitcoin, kapitalism, kryptovalutor, pengar, politik, staten, teknologi, v
 
 Ända sedan guldmyntfoten avskaffades har värdet på världens valutor flutit fritt mot varandra. Detta har skapat ett nollsummespel som underblåst av nationalism lett till ett globalt proxy-krig om världsherravälde.
 
+
 Värdet av valuta är inte inneboende och inte heller huvudsakligen relaterad till dess köpkraft. Istället för att sätta fokus på konkurrenskraftig industri och ömsesidigt fördelaktiga handelförbindelser så använder många länder idag sina valutor som ett vapen för att skifta handelsbalansen till deras förmån. Genom att manipulera ner värdet på valutan kan länder ge konkurrensfördelar till sina exportföretag samtidigt som de minskar den reella statsskulden och kan destabelisera ekonomin för sina rivaler. I processen förstör de samtidigt värdet av sina egna medborgares besparingar.
 
 Mitt i detta globala valutakrig föddes bitcoin, och bitcoin kan komma att underminera allt som vi trodde oss veta om valutor.
