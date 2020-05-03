@@ -1,6 +1,8 @@
 # Rothbardinstitutet
 
-Portning av Rothbardinstitutet som tidigare befann sig på [rothbardinstitutet.se](rothbardinstitutet.se).
+Ny webbsida: [rothbard.se](https://www.rothbard.se/)
+
+Portning av Rothbardinstitutet som tidigare befann sig på rothbardinstitutet.se. (Ägs ej av oss längre)
 
 Syftet med detta project är att rädda och bevara dess innehåll för framtiden.
 
