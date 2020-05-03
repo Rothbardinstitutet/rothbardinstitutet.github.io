@@ -1,0 +1,23 @@
+---
+title: "Statens nya krig mot diskriminering på nätet"
+author: "Robert Sundström"
+layout: post
+tags: [asyl, integration, invandring, migration, politik]
+---
+
+För en vecka sedan gick Post- och Telestyrelsen (PTS), myndigheten som reglerar kommunikationsmedlen (telefoni, bredband och post) i Sverige, tillsammans med andra organ med statlig anknytning, ut med ett [pressmeddelande](https://web.archive.org/web/20170706093306/http://www.pts.se/sv/Nyheter/Pressmeddelanden/2014/Nytt-verktyg-testar-webbplatsers-tillganglighet/) i vilket man förkunnade att från och med den 1 januari 2015 så är det förbjudet för svenska webbsidor att diskriminera mot funktionshindrade människor genom bristande tillgänglighet. Syftet med den nya lagstiftningen uppges vara att möjliggöra för de funktionshindrade att delta i samhället på lika villkor. Ett gott syfte kan många tycka. I samband med detta annonserade de ett tillgänglighetstest för webbsidor framtaget som måttstock av myndigheterna.
+
+
+Detta pressmeddelande ledde till oro bland människor i webbvärlden. Man hävdade att den majoritet av svenska webbsidor som inte lever upp till kraven snart kommer att kunna sättas dit och bötfällas av staten. I en [artikel](http://www.idg.se/2.1085/1.601240/lag-om-diskriminering-stressar-sajtagare) på IT-nyhetssidan IDG.se försökte PTS tona ner detta. De förklarade att modellen de har valt bygger på individuell prövning. Berörda kommer att kunna vända sig till Diskrimineringsombudsmannen (DO) och anmäla om de anser att en särskild webbplats diskriminerar någon på grund av bristande tillgänglighet. Detta kan vara för att information inte framförs på ett tillräckligt tydligt sätt eller är svår att hitta. Men hur dessa bestämmelser kommer att påverka företag är fortfarande oklart anser många.
+
+Lagstiftningen betyder, hur som helst, att någon form av byråkrati inrättas för att hantera de ärenden som förväntas kommer in. Dessutom så kommer de berörda utlovas ersättning medan webbsidans ägare får böta under löfte om att åtgärda de upplevda bristerna och uppnå myndigheternas krav.
+
+Men varför denna byråkrati? För det är ju upp till personerna bakom webbsidorna att se till så att deras sidor är anpassade för sina användare. Det är deras problem om någon väljer bort dem utav någon anledning. Ägaren förlorar på att användare följt av sponsorer och annonsörer väljer bort dem på grund av dålig tillgänglighet och rykte. Det är därmed ”sajtägarens” förlust och inte varken de drabbades eller ”samhällets”. Det utgör likaså en möjlighet för andra göra bättre och konkurrera med de som ger sämre service. Ingen myndighet behövs för att tvinga människor att bete sig. Det ska vara kundernas behov och preferenser som styr, inte myndigheternas.
+
+Det går inte att undgå att tänka på lagstiftningens ekonomiska konsekvenser på samhället i stort. Det kommer att tvångsförskjuta resurser till att uppnå de mål som har satts av myndigheterna istället för andra mål som av sidägarna anses högre prioriterade. Det kan därför i längden komma till att hämma produktiviteten då det avskräcker de som inte anser sig kunna leva upp till kraven under hotet om att bli anmälda, prövade och så klart bötfällda. Resultatet kan bli lägre tillväxt i webbsektorn.
+
+Det finns heller ingen rättfärdigande mening med böter. För troligen kommer endast en väldigt liten del av bötesintänkterna att gå till ersättning åt de drabbade – eller ens till att hjälpa till att förbättra tillgängligheten på Internet. Det mesta av pengarna går till statskassan och där av en del till att betala av byråkraterna. Böter är ett sätt för staten att driva in pengar rättfärdigat av *samhällsekonomiska kalkyler* – och inte främst för att kompensera ”offer”. Så har det varit historiskt sett. Det finns så klart också en risk att någon systematiskt ska börja anmäla sidor för att tjäna pengar, vilket skrämmer många.
+
+Slutsatsen är att detta myndighetsstyre innebär en onödig kostnad på samhället genom den byråkrati som måste inrättas för att pröva varenda enskilt fall. Inga av myndigheterna standardiserade regler och test kan avgöra om en sida är tillgänglig. Det är heller inte nödvändigt. Är nu webbsidorna verkligen mån om tillgängligheten så ser de frivilligt till det själva. Det ligger ju i deras intresse att tillgodose sina användares önskemål och behov
+
+Vi kommer inom sinom tid att se hur dyrt det blir för samhället när staten nu utökar sina gränser ut i det gränslösa nätet.
