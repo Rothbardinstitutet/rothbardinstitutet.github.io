@@ -9,6 +9,7 @@ Så här efter konstaterandet att det inte blir något nyval nästa år, utan en
 
 Denna artikel är en kort utläggning av några tankar om det demokratiska systemet.
 
+
 ## Maktförhållandet
 I det svenska demokratiska systemet sägs alla medborgare ha en röst och ha möjlighet att vara med och påverka hur landet styrs. Den möjligheten uppstår i realiteten då ens grupps representanter tar plats någon av de beslutande församlingarna (kommun, landsting och riksdag) där de kan driva fram politiken. Annars måste man förlita sig på att de styrande partierna, i konkurrens om väljarna, lyssnar på de orepresenterade invånarna, främst intressegrupper.
 

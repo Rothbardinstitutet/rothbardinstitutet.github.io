@@ -7,6 +7,7 @@ tags: [incitament, staten, välfärd]
 
 Det har tidigare [skrivits](/incitament-for-nyborjare/) om incitament och varför de är viktiga. Låt oss i denna artikel kort redogöra incitamenten i statlig verksamhet.
 
+
 Förutsättningarna för en fungerande verksamhet är *incitamenten*, det vill säga anledningarna för den att göra sitt jobb bra. I fallet med privata företag är incitamentet den vinst som de erhåller genom att tjäna sina kunder på det bästa och mest effektiva sättet möjligast. Detta incitament saknas i statlig verksamhet i vilken myndigheter, och till viss del även statligt ägda bolag, får pengar från skatteintäkter baserade på behovet som politikerna ser. Så är det så klart inte minst i välfärdsystemet. Där är det staten som är kunden, som bestämmer på vad pengarna ska spenderas, och inte de som tjänas, skattebetalarna, utifrån deras egna behov och omdöme. Till följd har de som anses tjänas väldigt lite makt över vart deras pengar spenderas. De kan inte avstå och välja att spendera på något annat. De får heller inte se några alternativ till vad staten har bestämt ska erbjudas och prioriteras.
 
 ## Belönas för sin ineffektivitet
