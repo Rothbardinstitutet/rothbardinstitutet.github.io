@@ -30,9 +30,12 @@ navigation:
   - {file: "archive.html"}
 
 external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - title: Github, icon: github, url: "https://github.com/robertsundstrom/rothbardinstitutet"}
-#  - {title: Prenumerera, icon: rss, url: "/feed.xml"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/rothbard_se"}
+  - {title: Prenumerera, icon: rss, url: "/feed.xml"}
+
+ # - {title: YouTube, icon: youtube, url: "https://www.youtube.com/channel/UCQq-s5zMM3_G7SxeFGeXyuQ"}
+ # - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+ # - {title: Github, icon: github, url: "https://github.com/Rothbardinstitutet"}
 
 comments:
   disqus_shortname: "rothbardinstitutet"
