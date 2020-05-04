@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "Libertarianism"
-author: "Victor Salander"
 ---
 
 Den gren av politisk filosofi som går under benämningen ”libertarianism” är i många avseenden en fortsättning på den ”klassiska liberalismen”.[1] Liksom för den klassiska liberalismen ligger kärnan i den libertarianska filosofin i *att säkerställa alla individers frihet genom att begränsa Statens makt.*
