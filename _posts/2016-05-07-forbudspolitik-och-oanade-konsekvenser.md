@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Förbudspolitik och oanade konsekvenser"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [förbud, förbudspolitik, ekonomi, drogpolitik]
 ---
 

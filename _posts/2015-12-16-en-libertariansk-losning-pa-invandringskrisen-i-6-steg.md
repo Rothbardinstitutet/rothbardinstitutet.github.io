@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "En libertariansk lösning på invandringskrisen i 6 steg"
-author: "Carl Jakobsson"
+author: carl-jakobsson
 ---
 
 Dagens flyktingkris är resultatet av regleringar som kortsiktigt gynnar vissa särintressen men försämrar för alla andra i samhället. Vad för annan politik kan då lösa krisen? Svaret står i att låta invandrare kunna tjäna egna pengar och ta bort regleringar som hindrar människor från att samarbeta med varandra.

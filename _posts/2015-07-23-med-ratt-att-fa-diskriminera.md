@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Med rätt att få diskriminera"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [diskriminering]
 ---
 

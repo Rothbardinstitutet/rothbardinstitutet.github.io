@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Värnplikt är slaveri, men det är inte allt…"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [diktatur, slaveri, stat, Sverige, tvång, värnplikt]
 ---
 

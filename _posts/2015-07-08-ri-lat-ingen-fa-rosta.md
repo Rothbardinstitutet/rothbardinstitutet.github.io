@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RI: Låt ingen få rösta"
-author: "Rothbardinstitutet"
+author: rothbardinstitutet
 tags: [demokrati, FI, politik]
 ---
 

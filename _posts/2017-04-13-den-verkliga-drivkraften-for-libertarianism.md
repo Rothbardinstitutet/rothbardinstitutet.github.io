@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Den verkliga drivkraften för libertarianism"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [anarkims, ideal, libertarianism, utopi]
 ---
 

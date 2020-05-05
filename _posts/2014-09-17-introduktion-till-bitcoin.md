@@ -1,6 +1,6 @@
 ---
 title: "Introduktion till Bitcoin"
-author: "Pontus Lindblom"
+author: pontus-lindblom
 layout: post
 tags: [Bitcoin, ekonomi, kryptovalutor]
 ---

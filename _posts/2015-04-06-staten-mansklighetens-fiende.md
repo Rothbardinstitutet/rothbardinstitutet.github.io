@@ -1,6 +1,6 @@
 ---
 title: "Staten – mänsklighetens fiende"
-author: '"Henry Chinanski"'
+author: henry-chinanski
 layout: post
 ---
 

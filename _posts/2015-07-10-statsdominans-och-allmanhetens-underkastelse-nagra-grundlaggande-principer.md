@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Statsdominans och allmänhetens underkastelse: Några grundläggande principer"
-author: "Robert Higgs"
+author: robert-higgs
 tags: [lag, makt, moral, politik, stat]
 ---
 

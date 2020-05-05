@@ -1,6 +1,6 @@
 ---
 title: "7 osanningar om den fria marknaden"
-author: "Sandy Ikeda"
+author: sandy-ikeda
 layout: post
 tags: [ekonomi, libertarianism]
 ---

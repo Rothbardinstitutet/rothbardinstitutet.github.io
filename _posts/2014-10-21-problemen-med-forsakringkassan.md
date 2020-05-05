@@ -1,6 +1,6 @@
 ---
 title: "Problemen med Försäkringskassan"
-author: "Carl Jakobsson"
+author: carl-jakobsson
 layout: post
 tags: [Föräkringskassan, problem, myndigheter, staten]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Libertarianismen är varken progressiv eller konservativ"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [kritik, libertarianism, nyliberalism, politik]
 ---
 

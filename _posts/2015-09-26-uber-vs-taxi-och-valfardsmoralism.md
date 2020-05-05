@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uber vs. taxi och välfärdsmoralism"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [moralism, taxi, uber, välfärdsstaten]
 ---
 

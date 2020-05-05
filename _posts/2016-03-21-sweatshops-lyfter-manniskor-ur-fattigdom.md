@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sweatshops lyfter människor ur fattigdom"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [välstånd, sweatshops]
 ---
 

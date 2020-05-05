@@ -1,6 +1,6 @@
 ---
 title: "Tankar om demokratin"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [demokrati, etatism]
 ---

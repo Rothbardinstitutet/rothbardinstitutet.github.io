@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin - den udda fågeln, Flagg-pengar och Valutakrig – Globala kryptovalutor ändrar spelreglerna"
-author: "Andreas M. Antonopoulos"
+author: andreas-m-antonopoulos
 layout: post
 tags: [Bitcoin, kapitalism, kryptovalutor, pengar, politik, staten, teknologi, valuta, valutakrig]
 ---

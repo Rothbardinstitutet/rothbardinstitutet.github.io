@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Incitament för nybörjare"
-author: "Sandy Ikeda"
+author: sandy-ikeda
 tags: [begränsningar, ekonomi, knapphet]
 ---
 

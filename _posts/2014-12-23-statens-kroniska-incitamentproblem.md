@@ -1,6 +1,6 @@
 ---
 title: "Statens kroniska incitamentproblem"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [incitament, staten, välfärd]
 ---

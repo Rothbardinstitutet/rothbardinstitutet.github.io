@@ -1,6 +1,6 @@
 ---
 title: "Statens nya krig mot diskriminering på nätet"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [asyl, integration, invandring, migration, politik]
 ---

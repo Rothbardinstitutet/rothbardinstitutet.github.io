@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Libertariansk strategi – för en framtid utan stater"
-author: "Benjamin Juhlin"
+author: benjamin-juhlin
 tags: [frihet, libertarianism, strategi, Sverige]
 ---
 

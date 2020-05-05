@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hur lag och ordning skapas i ett fritt samhälle"
-author: "Carl Jakobsson"
+author: carl-jakobsson
 ---
 
 *Den här artikeln är omarbetad efter en kort föreläsning som hölls på Ankdammen -15, i Gävle den 8:e augusti.*

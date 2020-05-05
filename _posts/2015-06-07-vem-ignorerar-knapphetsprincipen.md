@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vem ignorerar knapphetsprincipen?"
-author: "Sandy Ikeda"
+author: sandy-ikeda
 tags: [begränsningar, ekonomi, knapphet]
 ---
 

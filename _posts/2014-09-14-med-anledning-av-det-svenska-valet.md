@@ -1,6 +1,6 @@
 ---
 title: "Med anledning av det svenska valet"
-author: "S Sinervä"
+author: s-sinerva
 layout: post
 tags: [val, politik, Sverige]
 ---

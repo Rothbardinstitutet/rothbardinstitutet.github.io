@@ -1,6 +1,6 @@
 ---
 title: "Äganderätt: En introduktion"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [äganderätt, libertarianism, teori, politik, filosofi]
 ---

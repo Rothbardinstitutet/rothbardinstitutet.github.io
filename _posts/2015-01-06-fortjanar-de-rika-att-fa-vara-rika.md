@@ -1,6 +1,6 @@
 ---
 title: "Förtjänar de rika att få vara rika?"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [aktivism, ekonomi, etatism, socialism, välstånd]
 ---

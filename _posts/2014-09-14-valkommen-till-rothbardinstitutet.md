@@ -1,6 +1,6 @@
 ---
 title: "Välkommen till Rothbardinstitutet!"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 ---
 

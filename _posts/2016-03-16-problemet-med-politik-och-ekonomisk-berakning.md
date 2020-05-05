@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problemet med politik och ekonomisk beräkning"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: ["ekonomisk beräkning", politik]
 ---
 

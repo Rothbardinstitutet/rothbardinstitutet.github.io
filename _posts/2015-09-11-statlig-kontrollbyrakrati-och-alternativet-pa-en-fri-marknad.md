@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Statlig kontrollbyråkrati och alternativet på en fri marknad"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [byråkrati, konsumentskydd, myndigheter, myndighetskontroll, staten]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Är du trött på det falska påståendet att marknaden styr världen?"
-author: "Victor Salander"
+author: victor-salander
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hur man argumenterar för etatismen"
-author: "Shane Kilian"
+author: shane-killian
 layout: post
 ---
 

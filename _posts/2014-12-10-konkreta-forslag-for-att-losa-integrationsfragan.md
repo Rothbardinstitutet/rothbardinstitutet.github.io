@@ -1,6 +1,6 @@
 ---
 title: "Konkreta förslag för att lösa integrationsfrågan"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [asyl, integration, invandring, migration, politik]
 ---

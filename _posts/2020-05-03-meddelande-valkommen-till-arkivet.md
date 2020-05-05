@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meddelande: Välkommen till arkivet!"
-author: "Robert Sundström"
+author: robert-sundstrom
 ---
 
 Som många nog har märkt så har Rothbardinstitut varit inaktivt och nere under flera år nu. Det har inneburit att man inte har kunnat komma åt vårt verk så lätt.

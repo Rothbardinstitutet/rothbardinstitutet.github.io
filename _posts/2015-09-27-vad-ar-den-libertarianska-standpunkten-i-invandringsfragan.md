@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vad är den libertarianska ståndpunkten i invandringsfrågan?"
-author: "Carl Jakobsson"
+author: carl-jakobsson
 ---
 
 Martin Eriksson och Boris Benulic diskuterade i gårdagens [radio bubbla](http://radio.bubb.la/radio-bubb-la-269/) om vad den definitiva libertarianska positionen är i invandringsfrågan. De presenterade dels rena faktafrågor som de menar att en libertariansk hållning behöver ha med i sin världsbild samt vad för rättigheter någon har att ta sig över en statlig gräns och vad för politik staten bör föra.

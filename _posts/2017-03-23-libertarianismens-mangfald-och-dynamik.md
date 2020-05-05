@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Libertarianismens mångfald och dynamik"
-author: "Robert Sundström"
+author: robert-sundstrom
 tags: [dynamik, libertarianism, mångfald, tolerans]
 ---
 

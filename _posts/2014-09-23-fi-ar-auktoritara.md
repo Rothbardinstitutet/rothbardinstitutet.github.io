@@ -1,6 +1,6 @@
 ---
 title: "FI är auktoritära"
-author: "Ambjörn Hedblom"
+author: ambjorn-hedblom
 layout: post
 tags: [auktoritarianism, feminism, FI, libertarianism, politik]
 ---

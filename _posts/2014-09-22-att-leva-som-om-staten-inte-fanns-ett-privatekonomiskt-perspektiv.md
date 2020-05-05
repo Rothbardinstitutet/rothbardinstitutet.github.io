@@ -1,6 +1,6 @@
 ---
 title: "Att leva som om staten inte fanns – ett privatekonomiskt perspektiv"
-author: "Hans Åkerman"
+author: hans-akerman
 layout: post
 tags: [ekonomi, privatekonomi, frihet, libertarianism]
 ---

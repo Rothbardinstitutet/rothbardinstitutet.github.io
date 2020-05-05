@@ -1,6 +1,6 @@
 ---
 title: "Värnplikt är slaveri"
-author: "Robert Sundström"
+author: robert-sundstrom
 layout: post
 tags: [politik, själväganderätt, Sverige, värnplikt]
 ---
