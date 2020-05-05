@@ -3,6 +3,8 @@ layout: page
 title: "Murray N. Rothbard"
 ---
 
+<img style="float: right; height: 250px; padding-left: 10px" src="assets/images/MurrayBW.jpg">
+
 **Murray Newton Rothbard** (1926-1995) var en amerikansk ekonom, historiker och libertariansk teoretiker. Han var student under Ludwig von Mises, vars metodik han tog till sig och vidareutvecklade.
 
 Rothbard avlade 1956 sin doktorsexamen i ekonomisk historia med en uppsats om  den finansiella krisen år 1819, kallad ”The Panic of 1819”, som publicerades 1962. Samma år publicerade han ett av de viktigaste verken i den österrikiska skolans historia: den omfattande *”Man, Economy and State – A Treastise on Economic Principles”*. I detta verk tillämpade han en axiomatisk metod på marginalnytteteorin, lagen om tillbud och efterfrågan, pengars uppkomst och många andra ämnen inom ekonomisk teori. Typiskt för detta verk är att alla ämnen binds samman genom rigorösa resonemang och ofrånkomlig logik. Rothbard avfärdar den artificiella delningen mellan ‘micro’ och ‘makroekonomi’: båda kan studeras med samma metod.
