@@ -1,6 +1,6 @@
 ---
 title: "Demokrati"
-author: "Murray N. Rothbard"
+author: murray-n-rothbard
 layout: post
 tags: [demokrati, frihet, politik, libertarianism]
 ---

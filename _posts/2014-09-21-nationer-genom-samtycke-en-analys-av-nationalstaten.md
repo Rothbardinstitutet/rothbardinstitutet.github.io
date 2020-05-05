@@ -1,6 +1,6 @@
 ---
 title: "Nationer genom samtycke: En analys av Nationalstaten"
-author: "Murray N. Rothbard"
+author: murray-n-rothbard
 layout: post
 tags: [frihet, libertarianism, nationer, secession, stater]
 ---

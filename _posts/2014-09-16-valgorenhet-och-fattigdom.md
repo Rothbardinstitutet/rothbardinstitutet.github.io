@@ -1,6 +1,6 @@
 ---
 title: "Välgörenhet och fattigdom"
-author: "Murray N. Rothbard"
+author: murray-n-rothbard
 layout: post
 tags: [fattigdom, frihet, välgörenhet]
 ---

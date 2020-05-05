@@ -13,4 +13,4 @@ Rothbard förblev en utomordentligt produktiv tänkare genom hela sitt liv. Tota
 
 Rothbard sa att en konsekvent libertarian bör tillämpa *[icke-aggressionsprincipen](https://en.wikipedia.org/wiki/Non-aggression_principle)* fullt ut även även på staten och därmed vara anarkist. Han myntade begreppet *"anarkokapitalism”* för att beskriva sin filosofi och för att särskilja den från den kollektivistiska ”anarkism” som anarkosocialister förespråkade.
 
-*Denna artikel är till stor del baserad på belgiska [Rothbard Instituuts](http://rothbard.be/faq) text.*
+*Denna artikel är till stor del baserad på belgiska [Rothbard Instituuts](https://web.archive.org/web/20150217195411/http://rothbard.be/faq) text.*

@@ -1,6 +1,6 @@
 ---
 title: "Ekonomiska depressioner: Deras orsak och botemedel"
-author: "Murray N. Rothbard"
+author: murray-n-rothbard
 layout: post
 ---
 

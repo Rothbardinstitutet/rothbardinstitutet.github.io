@@ -27,6 +27,7 @@ navigation:
   - {file: "murray-rothbard.md"}
   - {file: "libertarianism.md"}
   - {file: "osterrikiska-skolan.md"}
+  - {file: "authors.html"}
   - {file: "archive.html"}
 
 external:                    # see http://fontawesome.com/icons
@@ -40,6 +41,26 @@ external:                    # see http://fontawesome.com/icons
 comments:
   disqus_shortname: "rothbardinstitutet"
 #  isso_domain: ""           # see https://posativ.org/isso/
+
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 plugins:
  - jekyll-feed
