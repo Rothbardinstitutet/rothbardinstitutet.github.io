@@ -45,6 +45,8 @@ comments:
 collections:
   authors:
     output: true
+  categories:
+    output: true
 
 defaults:
   - scope:
@@ -52,6 +54,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"
   - scope:
       path: ""
       type: "posts"

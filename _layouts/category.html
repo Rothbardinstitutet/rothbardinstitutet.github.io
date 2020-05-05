@@ -1,0 +1,16 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<h2>Artiklar</h2>
+<ul class="archive">
+  {% assign filtered_posts = site.posts | where: 'category', page.short_name %}
+  {% for post in filtered_posts %}
+    <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
