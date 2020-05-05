@@ -27,9 +27,9 @@ navigation:
   - {file: "murray-rothbard.md"}
   - {file: "libertarianism.md"}
   - {file: "osterrikiska-skolan.md"}
-  - {file: "authors.html"}
   - {file: "archive.html"}
-
+  - {file: "authors.html"}
+  
 external:                    # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/rothbard_se"}
   - {title: Prenumerera, icon: rss, url: "/feed.xml"}
