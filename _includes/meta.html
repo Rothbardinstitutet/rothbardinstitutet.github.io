@@ -1,6 +1,6 @@
 <header>
   {% if include.post.categories.size > 0 and site.minimal != true and include.preview != true %}
-  {% assign category = site.categories | where: 'short_name', include.post.categories | first %}
+  {% assign category = site.categories | where: 'short_name', include.post.category | first %}
     <a href="{{ category.url }}"><div class="categories">{{ category.name | join: ", "  | upcase }}</div></a>
   {% endif %}
   <h1><a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a></h1>
